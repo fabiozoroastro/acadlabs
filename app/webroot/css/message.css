@@ -1,0 +1,69 @@
+#purr-container {
+	position: fixed;
+	bottom: 0;
+	padding-bottom: 25px;
+	right: 0;
+}
+
+.notice {
+	position: relative;
+	width: 324px;
+}
+
+.notice .close {
+	position: absolute;
+	top: 12px;
+	right: 12px;
+	display: block;
+	width: 18px;
+	height: 17px;
+	text-indent: -9999px;
+	background: url(../img/purrClose.png) no-repeat 0 10px;
+}
+
+.warnings, .errors, .msgs{
+	min-height: 50px;
+	padding: 22px 22px 0 22px;
+	color: #FEFEFE;
+	/*font-weight: bold;*/
+}
+
+.msgs{
+	background: url(../img/purrTop_msgs.png) no-repeat left top;
+}
+.warnings{
+	background: url(../img/purrTop_warnings.png) no-repeat left top;
+}
+.errors{
+	background: url(../img/purrTop_errors.png) no-repeat left top;
+}
+
+.notice-body img {
+	width: 50px;
+	margin: 0 10px 0 0;
+	float: left;
+}
+
+.notice-body h3 {
+	margin: 0;
+	font-size: 1.1em;
+}
+
+.notice-body p {
+	margin: 5px 0 0 60px;
+	font-size: 0.8em;
+	line-height: 1.4em;
+}
+
+.msgs_bottom {
+	height: 22px;
+	background: url(../img/purrBottom_msgs.png) no-repeat left top;
+}
+.warnings_bottom {
+	height: 22px;
+	background: url(../img/purrBottom_warnings.png) no-repeat left top;
+}
+.errors_bottom {
+	height: 22px;
+	background: url(../img/purrBottom_errors.png) no-repeat left top;
+}

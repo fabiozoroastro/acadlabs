@@ -1,0 +1,1 @@
+<div id="full-loading" style="display:none; color: red;">aaaa</div>

@@ -1,0 +1,74 @@
+.occupied div {
+	background: url('../img/occupied.png') repeat-x left center;
+	background-color: #EFE;
+}
+
+table.calendar {
+	border: solid 1px;
+	width: 100%;
+}
+table.calendar td {
+	border: solid 2px #F;
+	padding: 3px;
+	white-space: nowrap;
+	text-align: center;
+	vertical-align: middle;
+	height: 50px;
+}
+
+
+.head-action {
+	color: #7A7;
+	background-color: #CEC;
+}
+
+.cell-action {
+	background-color: #EFE;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-moz-box-shadow: 2px 2px 3px #ddd;
+	-webkit-box-shadow: 2px 2px 3px #ddd
+}
+
+.create-user {
+	cursor: pointer;
+}
+
+.ui-datepicker {
+	width: 20em;
+}
+
+.ui-icon {
+	background-image: url("images/ui-icons_808080_256x240.png");
+	height: 16px;
+	width: 8px;
+}
+
+.find-filters {
+	border: solid 1px #CEC;
+	background-color: #EFE;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-moz-box-shadow: 2px 2px 3px #ddd;
+	-webkit-box-shadow: 2px 2px 3px #ddd;
+	background-color: #EFE;
+}
+
+.find-filters legend{
+	font-size:12px;
+	font-family:verdana;
+	color: #777;
+}
+
+.sabado{
+
+	color:#BB6644;
+}
+
+.alert{
+	background-color: #88AA88;
+}
+
+.relatorios{
+	list-style-type: disc;
+	font-size:11px;
