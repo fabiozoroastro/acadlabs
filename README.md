@@ -1,5 +1,1 @@
-
-iiiiiiiooi - teste de comunicacao note 1 com github
-oi - teste de comunicacao note 1 com github
-TESTEEEEEEEEEEEE
-
+Sistema para gestão de laboratórios de informática para instituições de ensino.
