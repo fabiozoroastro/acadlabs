@@ -1,1 +1,2 @@
-Sistema para gestão de laboratórios de informática para instituições de ensino.
+Management software for computer laboratories and its softwared.
+CakePHP 1.3.6
